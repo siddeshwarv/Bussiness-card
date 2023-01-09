@@ -1,0 +1,23 @@
+.container {
+  text-align: center;
+  margin: auto;
+  display: flex;
+  border: 1px dotted blue;
+  justify-content: center;
+  background-color: #ddebf8;
+  width: fit-content;
+  padding: 20px;
+  border-bottom: solid 5px #d8cefe;
+}
+img {
+  height: 200px;
+  margin: 20px;
+}
+.details {
+  margin: 20px;
+  height: 200px;
+  display: flex;
+  font-style: italic;
+  flex-direction: column;
+  justify-content: center;
+}
